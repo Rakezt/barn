@@ -2,10 +2,10 @@
 
 body{
     font-family: 'Roboto Slab', serif;
+    background-color: black;
+    color: white;
 }
-:root{
-    --primary-color:#0f172a;
- }
+
 a{
     text-decoration: none;
     color: var(--primary-color);
